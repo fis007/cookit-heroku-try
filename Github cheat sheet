@@ -1,0 +1,25 @@
+During the project, to keep track of your progress, you must push a commit at least once every 2 days!
+By the end of today, send your trello link and github link to me and jinq wen
+
+Git Branch:
+Branch naming convention and examples:
+feat/user_can_sign_up
+fix/fix_cannot_signup_bug
+refactor/change_variable_names
+
+Commands:
+Start a git folder
+git init
+Move to and create new branch
+git checkout -b branch_name
+Move to a branch
+git checkout branch_name
+
+git push origin branch
+Update your github branch ( you must be in the correct branch)
+git push origin branch_name 
+
+Live Share:
+Each pair test out using live share. Jw and MH will check with each pair.
+Trello:
+Create your project in trello and share the trello access with Jw and MH. Populate your trello board with the required tasks
